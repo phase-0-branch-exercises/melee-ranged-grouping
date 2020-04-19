@@ -5,7 +5,7 @@ function meleeRangedGrouping (str) {
     if (str.length === 0){
       return result
     }
-  
+    
     var pisahStr = str.split(',');
   
     var split2 = [];
